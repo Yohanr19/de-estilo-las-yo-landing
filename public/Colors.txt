@@ -1,0 +1,16 @@
+Paleta de Colores: 
+
+#124D41   Logo Main Color
+#FAFDFB   Blanco principal
+#D0D7DC   Azul Grisaceo Principal
+#BACCC9   Azul grisaceo claro
+#000000   Negro
+#213E3B   Logo main oscuro
+#5C7874   Logo Main claro
+#E7E8EA   Blanco hueso
+#726944   Marron bg
+#D3505B   Rosado Principal
+#E7AEBD   Salmon
+#5A868F   Azul Claro
+#EA6669   Rosa Oscuro
+#DF888C   Rosa Claro

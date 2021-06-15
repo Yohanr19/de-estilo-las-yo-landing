@@ -1,13 +1,26 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital,wght@0,400;1,300&display=swap');
+:root{
+  --LogoPrimario: #124D41;
+  --BlancoPrimario: #FAFDFB;
+  --AzulGrisaceoPrimario: #D0D7DC;
+  --AzulGrisaceoClaro: #BACCC9;
+  --Negro: #000;
+  --LogoPrimarioOscuro: #213E3B;
+  --LogoPrimarioClaro: #5C7874;
+  --BlancoHueso: #E7E8EA;
+  --Marron: #726944;
+  --RosadoPrimario: #D3505B;
+  --Salmon: #E7AEBD;
+  --AzulClaro: #5A868F;
+  --RosaPrimarioOscuro: #EA6669;
+  --RosaPrimarioClaro: #DF888C;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Roboto', sans-serif;
 }

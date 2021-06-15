@@ -1,0 +1,17 @@
+.navlink-container{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    align-items: center;
+    height: 100%;
+}
+.navlink a{
+    padding: 0.5rem;
+    color: var(--BlancoPrimario);
+    text-decoration: none;
+}
+@media screen and (min-width: 860px) {
+    .navlink a {
+        font-size: 1.4rem;
+    }
+}
