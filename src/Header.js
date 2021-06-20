@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from './NavBar'
 import logo from './images/logo-de-estilo-las-yo.jpeg'
-import './Header.css'
+import './styles/Header.css'
 
 
 const Header = () => {

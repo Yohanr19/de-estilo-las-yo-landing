@@ -1,4 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital,wght@0,400;1,300&display=swap');
+@font-face {
+  font-family: Clarie Murphy;
+  src: url(../styles/clariemurphy.otf);
+}
+@font-face {
+  font-family: Germania One;
+  src: url(../styles/GermaniaOne-Regular.ttf);
+}
+
 :root{
   --LogoPrimario: #124D41;
   --BlancoPrimario: #FAFDFB;
@@ -15,12 +24,14 @@
   --RosaPrimarioOscuro: #EA6669;
   --RosaPrimarioClaro: #DF888C;
 }
-
+html{
+  scroll-behavior: smooth
+}
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: Germania One, sans-serif;
 }

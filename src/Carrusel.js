@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowAltCircleLeft } from '@fortawesome/free-solid-svg-icons'
 import { faArrowAltCircleRight } from '@fortawesome/free-solid-svg-icons' 
 
-import './Carrusel.css'
+import './styles/Carrusel.css'
 import prenda1 from './images/prenda1.jpg'
 import prenda2 from './images/prenda2.jpg'
 import prenda3 from './images/prenda3.jpg'

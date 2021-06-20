@@ -1,6 +1,6 @@
 #header{
     height: 100vh;
-    background-image: url(./images/pexels-sam-lion-header-bg.jpg);
+    background-image: url(../images/pexels-sam-lion-header-bg.jpg);
     background-size: 200% 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -34,7 +34,7 @@
 .title {
     font-size: 1.6rem;
     text-align: center;
-    font-family: 'Lobster', cursive;
+    font-family: Clarie Murphy;
     padding-bottom: 2rem;
     padding-top: 1rem;
     color: var(--BlancoPrimario);

@@ -1,6 +1,6 @@
 import React from 'react'
 import Conocenos from './Conocenos'
-import './Body.css'
+import './styles/Body.css'
 import Compras from './Compras'
 import Carrusel from './Carrusel'
 import Contacto from './Contacto'

@@ -4,7 +4,7 @@ import { faInstagram } from '@fortawesome/free-brands-svg-icons'
 import { faPhone } from '@fortawesome/free-solid-svg-icons'
 import { faDirections } from '@fortawesome/free-solid-svg-icons'
 
-import './Contacto.css'
+import './styles/Contacto.css'
 
 const Contacto = () => {
     return (
