@@ -1,0 +1,37 @@
+.btn{
+    position: absolute;
+    font-size: 5rem;
+    top: 50%;
+    color: var(--RosaPrimarioClaro);
+    transform: translateY(-50%);
+    background-color: whitesmoke;
+    border-radius: 50%;
+}
+:hover.btn{
+    cursor: pointer;
+}
+.prev{
+    left: -2rem;
+}
+.next{
+    right: -2rem;
+}
+.slider-img{
+    width: 100%;
+    height: auto;
+    border-radius: 2.5rem;
+}
+#carrusel{
+    width: 80%;
+    margin: 2rem auto;
+    display: flex;
+    height: 400px;
+    position: relative;
+    border-radius: 30px;
+}
+@media screen and (min-width: 860px) {
+    #carrusel{
+        width: 67%;
+        height: 600px;
+    }
+}

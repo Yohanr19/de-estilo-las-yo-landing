@@ -1,28 +1,28 @@
-#conocenos h2 {
+#compras h2 {
     font-size: 2.5rem;
     padding-bottom: 3rem;
     padding-top: 4rem;
     font-family: 'Lobster', cursive;
 }
-#conocenos{
+#compras{
     text-align: center;
     margin: 0 auto;
     width: 85%;
 }
-#conocenos p{
+p{
     padding: 0.3rem 0;
     line-height: 1.5rem;
     font-size: 1.5rem
 }
 @media screen and (min-width: 860px) {
-    #conocenos h2{
+    #compras h2{
         font-size: 4rem;
     }
-    #conocenos p{
+    #compras p{
         line-height: 2.4rem;
         font-size: 2.2rem
     }
-    #conocemos{
+    #compras{
         width: 67%;
     }
 }

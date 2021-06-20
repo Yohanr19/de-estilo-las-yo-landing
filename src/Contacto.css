@@ -1,0 +1,41 @@
+#contacto {
+    margin: 0 auto;
+    width: 70%;
+    margin-top: 4rem;
+    text-align: center;
+}
+#contacto a{
+    text-decoration: none;
+    color: #000000;
+}
+:hover a{
+    text-decoration: none;
+}
+#contacto h3{
+    font-size: 2rem;
+    margin-top: 2rem;
+    font-family: 'Lobster', cursive;
+    border-top: 6px solid var(--RosaPrimarioClaro);
+}
+#contacto h4{
+    font-size: 1.3rem;
+}
+#contacto p{
+    font-size: 1.4rem;
+    margin-top: 2rem;
+}
+#contacto .container{
+    font-size: 5rem;
+}
+@media screen and (min-width: 860px) {
+    #contacto h3{
+        font-size: 4rem;
+    }
+    #contacto p{
+        font-size: 2.3rem;
+        margin-top: 2.5rem;
+    }
+    #contacto h4{
+        font-size: 2rem;
+    }
+}
